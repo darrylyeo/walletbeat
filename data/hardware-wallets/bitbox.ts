@@ -51,7 +51,7 @@ export const bitboxWallet: HardwareWallet = {
 				url: 'https://bitbox.swiss/bitbox02/',
 			},
 		],
-		iconExtension: 'png',
+		iconExtension: 'svg',
 		lastUpdated: '2025-01-07',
 		urls: {
 			docs: ['https://bitbox.swiss/dev/'],

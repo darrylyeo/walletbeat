@@ -24817,7 +24817,7 @@
 				},
 				{
 					"domain": "beta.walletbeat.eth.limo",
-					"path": "/images/wallets/frame.svg",
+					"path": "/images/wallets/frame.png",
 					"sessionTime": 8000025812,
 					"refererDomain": "beta.walletbeat.eth.limo",
 					"oddHeaders": {
@@ -24970,7 +24970,7 @@
 				},
 				{
 					"domain": "beta.walletbeat.eth.limo",
-					"path": "/images/wallets/firefly.svg",
+					"path": "/images/wallets/firefly.jpg",
 					"sessionTime": 8000027013,
 					"refererDomain": "beta.walletbeat.eth.limo",
 					"oddHeaders": {
@@ -26525,7 +26525,7 @@
 				},
 				{
 					"domain": "beta.walletbeat.eth.limo",
-					"path": "/images/wallets/frame.svg",
+					"path": "/images/wallets/frame.png",
 					"sessionTime": 9000011293,
 					"refererDomain": "beta.walletbeat.eth.limo",
 					"oddHeaders": {
@@ -26939,7 +26939,7 @@
 				},
 				{
 					"domain": "beta.walletbeat.eth.limo",
-					"path": "/images/wallets/firefly.svg",
+					"path": "/images/wallets/firefly.jpg",
 					"sessionTime": 9000014547,
 					"refererDomain": "beta.walletbeat.eth.limo",
 					"oddHeaders": {
